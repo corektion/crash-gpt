@@ -60,6 +60,7 @@ export function GenerateRecipe() {
             "md:flex md:w-1/3": isLoading || isRecipeVisible,
           })}
         >
+          {/* @ts-ignore */}
           <RecipeForm onSubmit={onSubmit} isLoading={isLoading} />
         </div>
         <div

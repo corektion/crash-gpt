@@ -47,8 +47,8 @@ export default function AdsSection() {
             className="mx-auto mb-4 size-auto"
           />
           <h4 className="text-2xl font-bold">
-            WE&apos;VE DRIVEN OVER $12,129,129.93 IN additional payouts OUR
-            CLIENTs
+            WE&apos;VE DRIVEN OVER $12,129,129.93 <br className="hidden md:block" /> IN ADDITIONAL PAYOUTS OUR
+            CLIENTS
           </h4>
           <p>But don&apos;t hear it from us, hear it from them...</p>
         </div>
